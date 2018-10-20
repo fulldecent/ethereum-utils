@@ -1,7 +1,7 @@
 pragma solidity ^0.4.24;
 
 /**
- * @dev The contract has an owner address, and provides basic authorization control whitch
+ * @dev The contract has an owner address, and provides basic authorization control which
  * simplifies the implementation of user permissions. This contract is based on the source code
  * at https://goo.gl/n2ZGVt.
  */
